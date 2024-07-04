@@ -27,7 +27,7 @@ Before getting started, a few things needs to be set up as follows
 1. **Installation**:
    - Clone this repository:-
       ```bash
-      git clone https://github.com/ImonChakraborty/jynxer-BOT-gemini-context.git
+      git clone https://github.com/ImonChakraborty/jynxer-text.git
 
   
    - Install dependencies:-
