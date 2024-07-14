@@ -28,7 +28,6 @@ Before getting started, a few things needs to be set up as follows
    - Clone this repository:-
       ```bash
       git clone https://github.com/ImonChakraborty/jynxer-text.git
-
   
    - Install dependencies:-
       ```bash
